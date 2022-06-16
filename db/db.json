@@ -154,6 +154,18 @@
       ],
       "status": "Solicitado",
       "id": 7
+    },
+    {
+      "nome": "Guilherme Occhi",
+      "carne": "Maminha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }
