@@ -90,7 +90,7 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 2
     },
     {
@@ -109,18 +109,6 @@
       "id": 6
     },
     {
-      "nome": "Guilherme Occhi",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 8
-    },
-    {
       "nome": "Priscila Occhi",
       "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",
@@ -129,7 +117,7 @@
         "Cheddar",
         "Cebola roxa"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 9
     },
     {
