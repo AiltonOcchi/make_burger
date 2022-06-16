@@ -83,19 +83,6 @@
   ],
   "burgers": [
     {
-      "nome": "Ailton",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
       "nome": "Zeca",
       "carne": "Alcatra",
       "pao": "Italiano Branco",
@@ -122,16 +109,6 @@
       "id": 6
     },
     {
-      "nome": "Gui",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Finalizado",
-      "id": 7
-    },
-    {
       "nome": "Guilherme Occhi",
       "carne": "Maminha",
       "pao": "Integral",
@@ -154,6 +131,17 @@
       ],
       "status": "Solicitado",
       "id": 9
+    },
+    {
+      "nome": "Pietro",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 10
     }
   ]
 }
