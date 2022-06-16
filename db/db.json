@@ -83,32 +83,6 @@
   ],
   "burgers": [
     {
-      "nome": "Zeca",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 2
-    },
-    {
-      "nome": "Ailton Occhi Santana",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame",
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 6
-    },
-    {
       "nome": "Priscila Occhi",
       "carne": "Veggie burger",
       "pao": "Parmesão e Orégano",
@@ -117,7 +91,7 @@
         "Cheddar",
         "Cebola roxa"
       ],
-      "status": "Finalizado",
+      "status": "Solicitado",
       "id": 9
     },
     {
@@ -128,8 +102,28 @@
         "Bacon",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 10
+    },
+    {
+      "nome": "Vó Roze",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Cebola roxa"
+      ],
+      "status": "Finalizado",
+      "id": 11
+    },
+    {
+      "nome": "Ailton Occhi Santana",
+      "carne": "Picanha",
+      "pao": "Integral",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 12
     }
   ]
 }
