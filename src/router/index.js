@@ -10,9 +10,6 @@ const routes = [
   {
     path: '/pedidos',
     name: 'PedidosView',
-    // route level code-splitting
-    // this generates a separate chunk (pedidos.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "pedidos" */ '../views/PedidosView.vue')
   }
 ]
