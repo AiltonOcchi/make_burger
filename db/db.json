@@ -166,6 +166,18 @@
       ],
       "status": "Solicitado",
       "id": 8
+    },
+    {
+      "nome": "Priscila Occhi",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 9
     }
   ]
 }
